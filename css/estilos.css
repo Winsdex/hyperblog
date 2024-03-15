@@ -53,6 +53,12 @@ font-size: 0.8;
 font-size: 20px;
 
 }
+#imagen
+{
+    
+    text-align: center;
+    width: 100%;
+}
 #post
 {
     padding: 1em;
