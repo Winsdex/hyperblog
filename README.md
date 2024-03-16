@@ -10,5 +10,6 @@ Un blog increible para el curso de Git y de Githud
 * El verdadero amor por las buenas prasticas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy 
+* creado por el increible team de platzi 
 
 Y como un amable recordatorio: **Este readme.md es un chiste** . Disenado para el ejemplo.Si llegas hasta aca NO TE LO TOMES ENSERIO y mejor ve el curso.
