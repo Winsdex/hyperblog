@@ -11,5 +11,7 @@ Un blog increible para el curso de Git y de Githud
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy 
 * creado por el increible team de platzi 
-*incluye ejemlos en Windos linux y MAc
+* incluye ejemlos en Windos linux y MAc
+ * Diverso para tods las edades
+
 Y como un amable recordatorio: **Este readme.md es un chiste** . Disenado para el ejemplo.Si llegas hasta aca NO TE LO TOMES ENSERIO y mejor ve el curso.
